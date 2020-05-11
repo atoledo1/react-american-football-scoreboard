@@ -56,7 +56,8 @@ const [value, setValue] = useState(); // Give these better names, and decide whe
 - [ ] Render the state values from what we just set up in steps 1 and 2
 - [ ] Play around with different initial values to test if they are rendering on the DOM correctly
 
-### STEP 4 - Add Click Functionality to Increment the Scores
+### STEP 4 - Add Click Functionality to Increment the Scores .
+
 
 - [ ] Add the `onClick` handler to each function
 - [ ] Determine how much you will need to increment the score for each button
